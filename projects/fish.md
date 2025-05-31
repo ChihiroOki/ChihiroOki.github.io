@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: img/fishing_management.png
 title: "Fish"
 date: 2025-5-31
 labels:
