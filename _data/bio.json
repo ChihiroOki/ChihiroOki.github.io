@@ -68,7 +68,8 @@
         "Appriciate the place we live in now",
         "Clean Hawaii"
       ]
-    },
+    
+    }
 
   ],
   "awards": [
@@ -76,7 +77,7 @@
       "title": "none",
       "date": "none",
       "awarder": "none",
-      "summary": ""  },
+      "summary": ""  }
     
   ],
   "references": [
