@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/fishing_management_logo.png
+image: img/update_image.png
 title: "Fish"
 date: 2025-5-31
 labels:
