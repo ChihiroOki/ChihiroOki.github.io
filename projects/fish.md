@@ -13,9 +13,8 @@ summary: "Fishing data management system with length, weight, and name"
 
 <img class="img-fluid" src="../img/Project1.png">
 
-Cotton is a horror-style text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
+This keeps a count of how many of each type of fish you have. This isn't a detailed database of each specific fish added, just a listing of each kind of fish you have and their count.
 
-To give you a flavor of the game, here is an excerpt from one run:
 
 <hr>
 
