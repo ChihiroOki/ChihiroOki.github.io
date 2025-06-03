@@ -1,59 +1,97 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
-title: "Cotton"
-date: 2014
-published: false
+image: imageforfishfishfish.png
+title: "fish, fish, fish"
+date: 2024
+published: true
 labels:
   - Lisp
   - GitHub
-summary: "A text adventure game that I developed for ICS 313."
+summary: "A text game that I developed for ICS  241."
 ---
 
 <img class="img-fluid" src="../img/cotton/cotton-header.png">
 
-Cotton is a horror-style text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
+This game is that yyou can actualy experience real fishing with traps etc....
+Try catch as many as fish you can!!
 
-To give you a flavor of the game, here is an excerpt from one run:
 
-<hr>
 
-<pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
+-actual code fpr trap function.-
 
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
+public class fishingTrap extends JFrame implements KeyListener, FishingTool{
+   private String sequence = "";
+   private int revolutions = 0;
+   private int neededRevolutions;
+   private String targetSequence;
+   private boolean conditionMet = false;
 
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
+   public fishingTrap(String target, int numRevolutions) {
+      super("Key Sequence Listener");
+      this.targetSequence = target;
+      this.neededRevolutions = numRevolutions;
+      // Setup the JFrame
+      setSize(400, 200);
+      setLocationRelativeTo(null);  // Center the window
+                                    // Create a text area to display instructions
+      JTextArea textArea = new JTextArea();
+      String display = "Type the Sequence '";
+      for (char c : targetSequence.toCharArray()) {
+         display = display + c + " ";
+      }
+      display = display + "' on your keyboard";
+      textArea.setText(display);
+      textArea.setEditable(false);
+      // Add the text area to the frame
+      add(textArea);
+      // Add key listener to the text area
+      textArea.addKeyListener(this);
+   }
 
-pickup candle
-- you are now carrying the candle -
+   @Override
+   public void keyTyped(KeyEvent e) {
+      // Append each key typed to the sequence
+      sequence += e.getKeyChar();
+      // Check if the last 5 characters match the target sequence
+      if (sequence.length() >= this.targetSequence.length() && sequence.substring(sequence.length() - this.targetSequence.length()).equals(targetSequence)) {
+         System.out.println(revolutions + " YESSIR");
+         revolutions++;
+         sequence = "";  // Reset sequence after detection
+         if (revolutions == neededRevolutions) {
+            conditionMet = true;
+            clearConsole();
+         }
+      }
+   }
 
-pickup match
-- you are now carrying the match -
+   @Override
+   public void keyPressed(KeyEvent e) {
+      // Implementation not needed for this example
+   }
 
-light match candle
+   @Override
+   public void keyReleased(KeyEvent e) {
+      // Implementation not needed for this example
+   }
 
-The candle is now lit. It illuminates everything in the room.
+   public boolean isConditionMet() {
+      return conditionMet;
+   }
 
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
-</pre>
+   public static void clearConsole() {
+      try {
+         String os = System.getProperty("os.name").toLowerCase();
 
-<hr>
-
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
+         if (os.contains("windows")) {
+            // Clears the console for Windows operating system
+            new ProcessBuilder("cmd", "/c", "cls").inheritIO().start().waitFor();
+         } else {
+            // Clears the console for Unix/Linux/Mac operating systems
+            new ProcessBuilder("clear").inheritIO().start().waitFor();
+         }
+      } catch (Exception e) {
+         System.out.println("Error occurred while clearing the screen: " + e.getMessage());
+      }
+   }
+}
