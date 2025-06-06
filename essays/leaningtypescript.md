@@ -22,9 +22,15 @@ No compile-time checks	      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;       🧠 Com
 Poor tooling for large projects	  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   🧰 Autocomplete, refactoring, and IDE support<br>
 Loosely structured	           &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;     🏗️ Classes with access modifiers (public, private, protected)<br>
 
-## What is TypeScript?
+## WODs
 
-TypeScript was made by MicroSoft. This company sponsers TypeScript so it is really popular coding laungage. It is saidf TypeScript expand JavaScript function like I write avobe.
+Athletic software engineering requires a high level of accuracy, deep knowledge, and strong problem-solving skills. There isn’t just one way to approach a problem and reach a solution. That’s why practicing WODs (Workouts of the Day) is so valuable—not only for athletic software engineering but also for programming in general.
+
+What I like about the WOD style is that it allows me to focus on small programs while using a timer, which I find to be a very effective learning method. It helps me stay focused and build confidence through repetition.
+
+At the same time, working on WODs can be stressful for me because even small problems can be very challenging. However, I believe that once I get used to doing WODs regularly, they will definitely become a powerful part of my learning routine.
+
+
 
 ## How I felt about learning Type Script
 
