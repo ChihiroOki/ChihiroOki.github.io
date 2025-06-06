@@ -9,7 +9,11 @@ labels:
   - Engineering
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/futurevision2.jpg">
+<img src="../img/futurevision2.jpg" 
+     style="width: 200px; border-radius: 10px;" 
+     class="float-start pe-4" 
+     alt="Future Vision">
+
 
 *Interests: My goal*
 
