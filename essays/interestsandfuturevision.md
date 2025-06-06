@@ -10,7 +10,7 @@ labels:
 ---
 
 <img src="../img/fv3.jpg" 
-     style="width: 300px; border-radius: 10px;" 
+     style="width: 200px; border-radius: 10px;" 
      class="float-start pe-4" 
      alt="Future Vision">
 
