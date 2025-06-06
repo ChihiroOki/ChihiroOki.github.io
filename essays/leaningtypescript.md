@@ -15,12 +15,12 @@ labels:
 
 ## Connection with JavaScript and TypeScript.
 
-JavaScript	                          TypeScript 
-Dynamically typed	                   🔒 Statically typed variables, parameters
-No interfaces or enums	             ✅ Interfaces, Enums, Type Aliases
-No compile-time checks	             🧠 Compile-time error checking
-Poor tooling for large projects	     🧰 Autocomplete, refactoring, and IDE support
-Loosely structured	                 🏗️ Classes with access modifiers (public, private, protected)
+JavaScript	&nbsp;&nbsp;&nbsp;                TypeScript<br>
+Dynamically typed	        &nbsp;&nbsp;&nbsp;           🔒 Statically typed variables, parameters<br>
+No interfaces or enums	   &nbsp;&nbsp;&nbsp;          ✅ Interfaces, Enums, Type Aliases<br>
+No compile-time checks	      &nbsp;&nbsp;&nbsp;       🧠 Compile-time error checking<br>
+Poor tooling for large projects	  &nbsp;&nbsp;&nbsp;   🧰 Autocomplete, refactoring, and IDE support<br>
+Loosely structured	           &nbsp;&nbsp;&nbsp;      🏗️ Classes with access modifiers (public, private, protected)<br>
 
 ## What is TypeScript?
 
