@@ -18,7 +18,7 @@ According to Eric Steven Raymond essay, in the internet world, how u ask questio
 The hackers is nice to people who tried to research deeply before asking questions, or people who tried to find the answer. 
 In his essay, he introduces preparation and techenicsto get great quality answer. It is important to respect volunteer's time and show them respect by shaping your questions smart.
 However, as I just read this, I did not even understand what is smart questions.
-Then, Let's go stackOverflow and let's look for the great quality questions and answer and bad examples too!
+Then, Let's go stackOverflow and let's look for the great quality questions and answer and bad examples too!<br>
 ✅ What to look for in a “Smart” (Good) Question on StackOverflow　<br>
 🔹 Clear and specific title <br>
 → Example: “Why does my async function return 'undefined' in JavaScript?”<br>
