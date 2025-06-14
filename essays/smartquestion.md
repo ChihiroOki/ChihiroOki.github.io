@@ -59,12 +59,17 @@ Then, Let's go stackOverflow and let's look for the great quality questions and 
 ⚠️ The question has been downvoted or closed by moderators<br>
 
 ## 1st example
+<p align="center">
+  <img src="../img/gq.jng" alt="LeetCode Screenshot" width="500">
+</p>
+(https://stackoverflow.com/questions/79665553/determine-length-of-last-word-implementation-is-too-slow)
 
-In the context of programming, this has always been true. The difficult problems have always been different, although changes in technology can change the landscape quite a bit. "Business" type applications are the things that come to mind for me. Those types of applications are usually coupled in some way with people ... and people are awfully hard to deal with!
-
-Consider that one of the most popular content management systems is also considered the most horrible - Wordpress. But really, is there anything that fills that need? If it was so easy in the first place, where is the solution? Where's the magic CMS that is designed well enough that everyone hops on the boat to use it?
-
-Some things are just difficult - building applications that humans use is hard, and will probably be hard for at least the near future.
+In this question, I think he follows the rule of smart questions very well.<br>
+-As He has understandable and great Title. (Lee challenge 'Length of Last words') We can tell what he wants easily.<br>
+-As He shares his code with us.
+-As he shares his code output with us. He also tells us that he disapointting on the result "2ms". 
+-He clarify he wants more efficient code. People can think about better way with him such as discussing by comment.
+-His form of the question is really solid. The explanation, code, and question are visually separated, making the structure easy to read and friendly for the reader.
 
 ## 2nd example
 
