@@ -58,39 +58,34 @@ Then, Let's go stackOverflow and let's look for the great quality questions and 
 
 ⚠️ The question has been downvoted or closed by moderators<br>
 
-## 1st example
+## good example
 <p align="center">
   <img src="../img/gq.jng" alt="LeetCode Screenshot" width="500">
 </p>
 (https://stackoverflow.com/questions/79665553/determine-length-of-last-word-implementation-is-too-slow)
-
+<br>
 In this question, I think he follows the rule of smart questions very well.<br>
 -As He has understandable and great Title. (Lee challenge 'Length of Last words') We can tell what he wants easily.<br>
--As He shares his code with us.
--As he shares his code output with us. He also tells us that he disapointting on the result "2ms". 
--He clarify he wants more efficient code. People can think about better way with him such as discussing by comment.
--His form of the question is really solid. The explanation, code, and question are visually separated, making the structure easy to read and friendly for the reader.
+-As He shares his code with us.<br>
+-As he shares his code output with us. He also tells us that he disapointting on the result "2ms". <br>
+-He clarify he wants more efficient code. People can think about better way with him such as discussing by comment.<br>
+-His form of the question is really solid. The explanation, code, and question are visually separated, making the structure easy to read and friendly for the reader.<br>
 
-## 2nd example
-
-Ever hear people ragging on engineering companies for delivering late and way over budget? Well, some engineering jobs are really difficult, especially if the requirements and funding are undulating underneath you. Because of the nature of the problem, sometimes engineering firms require large amounts of engineers and workers, inviting further problems and delays.
-
-The Honolulu Rail project at home has become this sort of poster child of failure, budget overrun and overall incompetence in Hawaii. Well, working though regulatory boards and fiscal procedures in Hawaii seems like it's a mind bogglingly difficult job to do. Granted, there might be some fishy stuff going on, but I refuse to believe that everyone is involved for nefarious reasons.
-
-The problem of creating an unprecedented public transportation backbone on an island is difficult! I'm not sure we would have done it right, even if the best people were involved.
+## bad example
+<p align="center">
+  <img src="../img/bq.jng" alt="LeetCode Screenshot" width="500">
+</p>
+<br>
+In this question, His question was this - 'My div class responsive table missing all the plug-ins when i filtered it with date-time [closed]'<br>
+It is not even questions. And He just copy paste his code. (Maybe he got errors) so he just want people revise his code.<br>
+He is not even saying the why he is wirtiing this code netheir...<br>
+So He did not even follow the rule of smart questions.
 
 ## Diferrence
 
-So in the end, we realize that all engineering and programming is there for a reason - to serve human needs. Maybe that's why those things are difficult, because they both involve humans and are for humans.
-
-Relationships, regardless if they're romantic or not take work. Humans are fickle creatures and relationships can come and go with the wind. To properly maintain something over time requires work. Family takes work. Marriage takes work. We live to figure out what works and what doesn't and hope that as we move forward we're improving.
-
-Relationships have always been difficult, and by nature will continue to be so.
+You can tell difference clearly, Good question has organized and shaped form of question, visualy separated by code and question.
+Asking us what he wants, and what is his idea about the his own code.
 
 ## Summury
 
-So back to the original premise; why is being one of the club officers so difficult?
-
-And the final answer - it's supposed to be difficult, and it's supposed to challenge you, just like everything else that humans do that is difficult: programming, engineering, engaging in relationships, pondering the universe, etc.
-
-Ultimately the question you should really ask yourself if something if particularly difficult is then "is it worth it"? That is something that is context specific and only you can answer yourself.
+This is not simple but not esay.. I might not be able to ask good questions in a lot of situations. I, however, learned these stuff by reading Raymond's essay, and compareing the questions by myself. Now I know how to make good questions and what is bad questions...
