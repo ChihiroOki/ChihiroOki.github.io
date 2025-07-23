@@ -51,7 +51,7 @@ The same was true of my senior's “grilling method.<br>
 A design pattern is a “pattern of wisdom” created by the accumulation of rules of thumb.<br>
 So, if I am asked in an interview, "Do you know what a design pattern is? I might answer as follows.<br>
 And my code has such a “baking method” engraved in it.<br>
-    <p align="center">
-  <kbd><img src="../img/takoyaki3.png" alt="Delicious takoyaki" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" /></kbd>
+    <p style="text-align: center;">
+  <img src="../img/takoyaki3.png" alt="Delicious takoyaki" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
 </p>
 
