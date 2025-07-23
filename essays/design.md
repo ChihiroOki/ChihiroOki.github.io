@@ -15,7 +15,7 @@ labels:
 
 
 <p align="center">
-  <kbd><img src="/img/takoyaki.png" alt="Delicious takoyaki" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
+  <kbd><img src="../img/takoyaki.png" alt="Delicious takoyaki" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
 </kbd>
 </p>
 
@@ -26,14 +26,14 @@ labels:
    It was when I was working part-time at a takoyaki restaurant.
    The first time I was assigned to be the chef, I poured the dough, added the octopus, and somehow rolled it out just as I saw fit.
    <p align="center">
-  <kbd><img src="/img/takoyaki1.png" alt="Delicious takoyaki" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
+  <kbd><img src="../img/takoyaki1.png" alt="Delicious takoyaki" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
 </kbd>
 </p>
 
    The finished takoyaki is well, not inedible. But something is clearly different from the takoyaki cooked by boss.
    The outside is not crispy and the timing of turning it over is uneven.
    <p align="center">
-  <kbd><img src="/img/takoyaki2.png" alt="Delicious takoyaki" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" /></kbd>
+  <kbd><img src="../img/takoyaki2.png" alt="Delicious takoyaki" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" /></kbd>
 </p>
     It was frustrating
     There is a pattern," the boss said. There is a certain way of doing takoyaki," he said. It's a design pattern for takoyaki.
@@ -52,6 +52,6 @@ labels:
     So, if I am asked in an interview, "Do you know what a design pattern is? I might answer as follows.
     And my code has such a “baking method” engraved in it.
     <p align="center">
-  <kbd><img src="/img/takoyaki3.png" alt="Delicious takoyaki" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" /></kbd>
+  <kbd><img src="../img/takoyaki3.png" alt="Delicious takoyaki" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" /></kbd>
 </p>
 
