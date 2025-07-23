@@ -1,10 +1,10 @@
 ---
 layout: essay
 type: essay
-title: "The difficult things will always be difficult"
+title: "What Designe I used for my code. feat Takoyaki"
 # All dates must be YYYY-MM-DD format!
-date: 2016-02-06
-published: false
+date: 2025-07-22
+published: true
 labels:
   - Engineering
 ---
