@@ -14,10 +14,8 @@ labels:
 <br>
 
 
-<p align="center">
-  <kbd><img src="../img/takoyaki.png" alt="Delicious takoyaki" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
-</kbd>
-</p>
+<img src="../img/takoyaki.png" alt="Delicious takoyaki" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
+
 
 ---
 
@@ -25,16 +23,14 @@ labels:
 
    It was when I was working part-time at a takoyaki restaurant.
    The first time I was assigned to be the chef, I poured the dough, added the octopus, and somehow rolled it out just as I saw fit.
-   <p align="center">
-  <kbd><img src="../img/takoyaki1.png" alt="Delicious takoyaki" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
-</kbd>
-</p>
+
+<img src="../img/takoyaki1.png" alt="Delicious takoyaki" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
+
 
    The finished takoyaki is well, not inedible. But something is clearly different from the takoyaki cooked by boss.
    The outside is not crispy and the timing of turning it over is uneven.
-   <p align="center">
-  <kbd><img src="../img/takoyaki2.png" alt="Delicious takoyaki" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" /></kbd>
-</p>
+  
+<img src="../img/takoyaki2.png" alt="Delicious takoyaki" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
 It was frustrating <br>
 There is a pattern," the boss said. There is a certain way of doing takoyaki," he said. It's a design pattern for takoyaki. <br>
 At that time, I still did not know the true meaning of the term “design pattern,” but it stuck with me.<br>
