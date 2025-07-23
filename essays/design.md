@@ -1,4 +1,4 @@
-<h1 align=center>What design I used | <a href="https://ChihiroOki.github.io/" rel="nofollow">Demo</a></h1>
+<h1 align=center>What design I used </h1>
 
 <h4 align=center>Takoyaki</h4>
 <br>
