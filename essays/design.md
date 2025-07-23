@@ -35,22 +35,22 @@ labels:
    <p align="center">
   <kbd><img src="../img/takoyaki2.png" alt="Delicious takoyaki" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" /></kbd>
 </p>
-    It was frustrating
-    There is a pattern," the boss said. There is a certain way of doing takoyaki," he said. It's a design pattern for takoyaki.
-    At that time, I still did not know the true meaning of the term “design pattern,” but it stuck with me.
-    Years later, when I began to learn programming, I came across the term again.
-    A design pattern is a “reusable solution to a common problem” created in the field of software development.
-    In other words, they are like “how to cook takoyaki” that veteran engineers have developed through years of trial and error.
-    For example, the “Singleton” pattern. This is used when you want only one instance to exist. 
-    It's like “I only need one bottle of soy sauce.” In fact, I have used singletons in my bike management application to store settings and user information. 
-    By always using the same instance, data consistency was maintained.
-    In addition, the “Observer” pattern and the “Factory” pattern were used naturally in React and Next.js development. 
-    It was precisely because of these patterns that the screen was re-rendered every time the input values of the form changed, or that different parts were generated from a common interface.
-    The funny thing is that even without knowing the design patterns, we think similarly on a daily basis. 
-    The same was true of my senior's “grilling method.
-    A design pattern is a “pattern of wisdom” created by the accumulation of rules of thumb.
-    So, if I am asked in an interview, "Do you know what a design pattern is? I might answer as follows.
-    And my code has such a “baking method” engraved in it.
+It was frustrating <br>
+There is a pattern," the boss said. There is a certain way of doing takoyaki," he said. It's a design pattern for takoyaki. <br>
+At that time, I still did not know the true meaning of the term “design pattern,” but it stuck with me.<br>
+Years later, when I began to learn programming, I came across the term again.<br>
+A design pattern is a “reusable solution to a common problem” created in the field of software development.<br>
+In other words, they are like “how to cook takoyaki” that veteran engineers have developed through years of trial and error.<br>
+For example, the “Singleton” pattern. This is used when you want only one instance to exist. <br>
+It's like “I only need one bottle of soy sauce.” In fact, I have used singletons in my bike management application to store settings and user information. <br>
+By always using the same instance, data consistency was maintained.<br>
+In addition, the “Observer” pattern and the “Factory” pattern were used naturally in React and Next.js development. <br>
+It was precisely because of these patterns that the screen was re-rendered every time the input values of the form changed, or that different parts were generated from a common interface.<br>
+The funny thing is that even without knowing the design patterns, we think similarly on a daily basis. <br>
+The same was true of my senior's “grilling method.<br>
+A design pattern is a “pattern of wisdom” created by the accumulation of rules of thumb.<br>
+So, if I am asked in an interview, "Do you know what a design pattern is? I might answer as follows.<br>
+And my code has such a “baking method” engraved in it.<br>
     <p align="center">
   <kbd><img src="../img/takoyaki3.png" alt="Delicious takoyaki" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" /></kbd>
 </p>
