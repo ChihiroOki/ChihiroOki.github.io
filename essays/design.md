@@ -1,3 +1,13 @@
+---
+layout: essay
+type: essay
+title: "The difficult things will always be difficult"
+# All dates must be YYYY-MM-DD format!
+date: 2016-02-06
+published: false
+labels:
+  - Engineering
+---
 <h1 align=center>What design I used </h1>
 
 <h4 align=center>Takoyaki</h4>
