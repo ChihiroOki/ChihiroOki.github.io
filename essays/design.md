@@ -15,7 +15,7 @@ labels:
 ---
 
 <p align="center">
-  <kbd><img src="https://user-images.takoyaki.png" alt="takoyaki image" title="Takoyaki"/></kbd>
+  <kbd><img src="/doc/takoyaki.png" alt="Takoyaki" style="width: 70%; height: auto;" />
 </p>
 
 ---
