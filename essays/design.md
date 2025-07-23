@@ -12,7 +12,7 @@ labels:
 
 <h4 align=center>Takoyaki</h4>
 <br>
--
+
 
 <p align="center">
   <kbd><img src="/img/takoyaki.png" alt="Delicious takoyaki" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
